@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+"topic.dtd">
+<topic id="topic_vcx_mj3_2zb">
+  <title>What is Google Gemini?</title>
+
+  <shortdesc>Google Gemini is as a public, generative AI tool that allows you
+  to get full-text, conversational responses to your questions.</shortdesc>
+
+  <body>
+    <p>Google Gemini is an artificial intelligence chatbot that can respond to
+    a user's questions (or prompts) on any subject with an almost human-like
+    "understanding." It performs text-based tasks like creating various forms
+    of content, summarizing text, and translating between languages.</p>
+
+    <image href="png_gemini-image.png"/>
+  </body>
+</topic>

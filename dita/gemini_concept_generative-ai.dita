@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="concept_dkz_nf3_2zb">
+  <title>What is generative AI?</title>
+
+  <shortdesc>Generative AI reads models containing structured data generates
+  conversational summaries, images, and suggestions.</shortdesc>
+
+  <conbody>
+    <p>While Traditional AI aims to perform specific tasks based on predefined
+    rules and patterns, Generative AI goes beyond this limitation and strives
+    to create entirely new data that resembles human-created content.</p>
+
+    <p>Generative AI is a subfield of AI that involves creating algorithms
+    that can generate new data such as images, text, code, and music.</p>
+
+    <p>The big difference between generative AI and “traditional AI” is that
+    the former generates new data based on the training data. Also, it works
+    with types of data that “traditional AI” cannot.</p>
+  </conbody>
+</concept>

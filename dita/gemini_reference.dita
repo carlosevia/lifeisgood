@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+"reference.dtd">
+<reference id="reference_gemini">
+  <title>Sample questions for Google Gemini</title>
+
+  <shortdesc>Sometimes the best way to learn about the capabilities of a tool
+  is to test it out.</shortdesc>
+
+  <refbody>
+    <section id="section_first"><p>The Google Gemini URL is <xref
+    format="html" href="https://gemini.google.com/" scope="external"/>.
+    </p><ul id="ul_first">
+        <li audience="admin" id="li-first">What is modular writing?</li>
+
+        <li>What is structured writing?</li>
+
+        <li>What does docs-as-code mean?</li>
+
+        <li>Who is recognized as the first English-language technical
+        writer?</li>
+
+        <li>What percentage of software users are color blind?</li>
+
+        <li>How many flavors of Markdown are there?</li>
+      </ul></section>
+  </refbody>
+</reference>

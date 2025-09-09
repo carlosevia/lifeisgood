@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
+"task.dtd">
+<task id="task_fw5_5f3_2zb">
+  <title>How do I use Google Gemini?</title>
+
+  <shortdesc>Google Gemini, like ChatGPT, accepts input questions from you and
+  generates full-text responses.</shortdesc>
+
+  <taskbody>
+    <context><p>Use this procedure to access Google Gemini and to enter a
+    query. </p></context>
+
+    <steps>
+      <step>
+        <cmd>In your web browser, open <xref href="https://gemini.google.com/" format="html"
+            scope="external"/>.</cmd>
+      </step>
+
+      <step>
+        <cmd>Enter the following question.</cmd>
+
+        <info>What can Gemini do for me?</info>
+      </step>
+
+      <step>
+        <cmd>Review Gemini's response.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

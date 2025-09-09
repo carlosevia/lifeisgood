@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"map.dtd">
+<map>
+  <title>Introduction to Google Gemini</title>
+<topicref href="index.dita"/>
+  <topicref href="gemini_topic_introduction.dita">
+    <topicref href="gemini_concept_generative-ai.dita"/>
+
+    <topicref href="gemini_task.dita"/>
+
+    <topicref href="gemini_reference.dita"/>
+  </topicref>
+</map>
